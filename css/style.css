@@ -745,6 +745,10 @@ footer .move-up span:hover {
 }
 
 @media screen and (max-width: 578px) {
+.bit-value-body{ 
+top:0px !important;
+Padding:10px;
+}
     .bit-value-body .bit-value {
         width: 100%;
     }
